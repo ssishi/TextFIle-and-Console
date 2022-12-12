@@ -8,11 +8,9 @@ public class FileIO {
   public static void main(String[] args) {
 
     String[] names = {"Pieka Grobbelaar is a software Engineer and CEO of DrakkenTech",
-     "Siyabonga  Sishi is a final year student in software enginering looking for an internship", 
+     "Siyabonga Sishi is a final year student in software enginering looking for an internship", 
      "WeThinkCode is in partnership with DrakkenTech helping student reach their goals in software engineering journey"};
     
-
-
     try {
       BufferedWriter writer = new BufferedWriter(new FileWriter("output.txt"));
       writer.write("Writing to a file.");
