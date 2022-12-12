@@ -1,0 +1,5 @@
+Writing to a file.
+Here is another line.
+Pieka is the CEO of DrakkenTech
+Siya Sishi is a final year student in software enginering looking for internship
+WeThinkCode is in partnership with DrakkenTech helping student reach their goals in software engineering journey
